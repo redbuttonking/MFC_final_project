@@ -3,7 +3,7 @@
 ### 🔭Preview
 |초기 화면|게임오버|
 |:--:|:--:|
-|<img src="MFC1.jpg" height = "600" width="450">|<img src="MFC2.jpg" height = "600" width="450">|
+|<img src="MFC1.jpg" height = "300" width="700">|<img src="MFC3.jpg" height = "300" width="700">|
 
 ## 1. 팀 프로젝트
 
